@@ -7,5 +7,6 @@ int main() {
     std::cin >> name;
     std::cout << "Hello, " << name << "!" << std::endl;
     std::cout << "Welcome to C++ and Linux!" << std::endl;
+    std::cout << "Goodbye!" << std::endl;
     return 0;
 }
